@@ -1,1 +1,4 @@
+Contiene los bib de Scopus y de WoS a partir del criterio de búsqueda que utiliza combinación de términos cerrados con *
+
+("data-driven story*" OR "data* story*" OR "visual* storytell*") AND framework
 
