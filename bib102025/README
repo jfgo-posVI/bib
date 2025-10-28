@@ -2,3 +2,4 @@ Contiene los bib de Scopus y de WoS a partir del criterio de búsqueda que utili
 
 ("data-driven story*" OR "data* story*" OR "visual* storytell*") AND framework
 
+También contiene la unión de los trabajos quitando los repetidos y tras eliminar manualmente aquellos que no son de interés
